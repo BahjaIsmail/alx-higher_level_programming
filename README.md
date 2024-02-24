@@ -9,5 +9,6 @@ This is the list of projects for Alx higher level programming
 7. Copy - Cut - Paste
 8. Create a new sentence
 9. Easter Egg
-10. Linked list cycle
+10. Linked list cycThis is the list of projects for Alx higher level programming This is the list of projects for Alx higher level programming
+
 
