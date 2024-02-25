@@ -1,2 +1,2 @@
 #!/bin/bash
-$PYCODE = print("Hi Bahja")
+$PYCODE = print() 
