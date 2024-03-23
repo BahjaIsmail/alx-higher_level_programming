@@ -1,1 +1,3 @@
-#!/usr/bin/python3
+#!/usr/bin/pythoni3
+#List all databases
+SHOW databases
